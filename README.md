@@ -46,5 +46,11 @@ db.properties에 접속정보를 입력하고, 프로그램의 쿼리에 맞춰 
 
 ### 출력 일치를 위해 확인할 부분
 
-Change Type과 Changed Entity Type을 저장하게 되어 있는데, 이 두 가지만 잘 일치하도록 변경하면 됨.  
-`DiffExample`과 `DiffExample2`를 반복해서 실행하면서 GumTree와 ChangeDistiller의 출력 차이를 적절히 수정할 코드를 만들면 됨.  
+Change Type과 Changed Entity Type을 저장하게 되어 있는데, 이 두 가지를 일치시켜주기 위해
+ChangeDistiller의 출력을 GumTree와 같도록 Mapping 작업 완료.
+
+
+### LINE DIFF
+
+Old 와 New 의 CommitID를 이용하여 터미널에서  diff | wc -l  를 이용하여 라인 차이가 나는 줄 숫자를 받아와
+데이터베이스에 저장한다.
