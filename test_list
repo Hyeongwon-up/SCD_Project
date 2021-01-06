@@ -1,0 +1,10 @@
+MATH-1010_21f8828:src/main/java/org/apache/commons/math3/util/MathArrays.java
+MATH-1222_903f280:src/main/java/org/apache/commons/math4/util/FastMath.java
+MATH-1154_809f0f8:src/main/java/org/apache/commons/math3/distribution/TriangularDistribution.java
+MATH-1382_dff1a09:src/test/java/org/apache/commons/math4/geometry/euclidean/twod/DiskGeneratorTest.java
+MATH-839_3fd9cf1:src/main/java/org/apache/commons/math4/distribution/IntegerDistribution.java
+MATH-670_2ebf67a:src/main/java/org/apache/commons/math/random/ValueServer.java
+MATH-403_62a313f:src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
+MATH-423_96c2ce3:src/test/java/org/apache/commons/math/genetics/GeneticAlgorithmTestPermutations.java
+MATH-162_cc73bfb:src/mantissa/tests-src/org/spaceroots/mantissa/estimation/GaussNewtonEstimatorTest.java
+MATH-1044_d434c5d:src/main/java/org/apache/commons/math3/linear/LUDecomposition.java
